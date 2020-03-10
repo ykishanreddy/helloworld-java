@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
+        <id>vinod</id>
         <name>release softx</name>
         <url>http://18.222.82.44:8081/repository/vinod/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
+        <id>vinod</id>
         <name>snapshot softx</name>
         <url>http://18.222.82.44:8081/repository/vinod-snapshot/</url>
     </snapshotRepository>
